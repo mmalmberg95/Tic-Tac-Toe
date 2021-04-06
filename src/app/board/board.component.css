@@ -1,0 +1,26 @@
+main {
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  grid-gap: 10px;
+}
+
+app-square {
+  height: 200px;
+}
+
+.outline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  color: white;
+  background: transparent;
+  margin: 20px 20px 20px 0px;
+  border: 2px red solid;
+  border-radius: 2px;
+}
+
+.outline:hover {
+  background-color: white;
+  color: red;
+}
