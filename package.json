@@ -47,5 +47,5 @@
     "typescript": "4.1.5"
   },
   "keywords": [],
-  "description": ""
+  "description": "A simple Tic-Tac-Toe game made with Angular"
 }
